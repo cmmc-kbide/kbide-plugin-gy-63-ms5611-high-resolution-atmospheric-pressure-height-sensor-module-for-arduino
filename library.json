@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-63-ms5611-high-resolution-atmospheric-pressure-height-sensor-module-for-arduino",
+  "title": "gy-63-ms5611-high-resolution-atmospheric-pressure-height-sensor-module-for-arduino",
+  "keywords": "gy-63-ms5611-high-resolution-atmospheric-pressure-height-sensor-module-for-arduino, esp32, esp8266, arduino",
+  "description": "gy-63-ms5611-high-resolution-atmospheric-pressure-height-sensor-module-for-arduino plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-63-ms5611-high-resolution-atmospheric-pressure-height-sensor-module-for-arduino/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-63-ms5611-high-resolution-atmospheric-pressure-height-sensor-module-for-arduino/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
